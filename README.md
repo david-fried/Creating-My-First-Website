@@ -2,7 +2,7 @@
 
 
 
-Below is my link to my Git Hub webpage for this homework assignment.
+Below is a link to my GitHub Webpage for this homework assignment.
 
 
 [My Git Hub Web Page](https://david-fried.github.io/)
